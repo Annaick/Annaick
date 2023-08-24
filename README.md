@@ -2,7 +2,7 @@
 
 <h1>PRESENTATION</h1>
 
-<h3>About me</h3>
+<h3 style="color: orange;">About me</h3>
 <ul>
   <p> - My name is Annaick 🇲🇬, 18 years old and I'm a computer science studeny 💻 <br></p>
   <p> - I'm interested in web design 🌇 and development 🖥<br></p>
