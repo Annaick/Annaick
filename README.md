@@ -1,6 +1,6 @@
 //Hi there 👋//
 
-<title>PRESENTATION</title>
+<h1>PRESENTATION</h1>
 
 <p> - My name is Annaick 🇲🇬, 18 years old and I'm a computer science studeny 💻 <br></p>
 <p> - I'm interested in web design 🌇 and development 🖥<br></p>
